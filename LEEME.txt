@@ -1,0 +1,32 @@
+MAYLI LUCIANA ORTEGA · MIS 15 AÑOS
+18 de octubre de 2026. Salida: 10:00 a. m. desde Plaza Colón, bus privado.
+Destino: Balneario Casa Blanca Colón, enlace Maps proporcionado por el cliente.
+Mamá: Lidia Ortega. Tíos: Reynaldo Ortega y Alex Ortega.
+Confirmación y consultas: +59177985994.
+Vestimenta: Summer Romance. Elegante, fresco. Llevar traje de baño.
+Digital Pro: +59179352293.
+
+PUBLICAR EN GITHUB PAGES
+Subir todo el contenido descomprimido a la raíz del repositorio:
+index.html, estilo.css, invitacion.js, mayli.ics y carpeta assets.
+Mantener los nombres de archivo y la estructura. No subir solo el ZIP.
+La música comienza al tocar el corazón, una interacción necesaria en navegadores.
+Compartir y copiar utilizan automáticamente la dirección publicada.
+Las sugerencias musicales preparan un mensaje de WhatsApp para que el invitado lo envíe.
+El calendario y conteo usan la hora de salida del bus; no se inventó hora de llegada o de cierre.
+El mapa es del balneario. Para el punto exacto en Plaza Colón se incluye consulta por WhatsApp.
+Las ilustraciones del mar y del balneario son decorativas, no fotografías reales del lugar.
+
+DISEÑO
+Referencia del cliente: paleta rosa empolvado, rosa cálido, cereza, crema y vino.
+Cartas, papeles superpuestos, sobre con corazón, polaroid ilustrada, pequeños corazones
+que caen, destellos suaves, aparición de capítulos al desplazarse, música y animaciones
+que se pueden pausar. Se respeta la preferencia de movimiento reducido.
+
+ARTE GENERADO
+Herramienta: ImageGen integrado, fondo transparente, convertido a WebP con FFmpeg.
+Prompt: romantic scrapbook corner ornament with deep cherry red satin ribbon bow,
+dusty pink garden roses, tiny cream flowers, muted olive leaves and two red cherries;
+hand-painted watercolor and colored pencil botanical aesthetic, no text or background.
+Fuente caligráfica local y licencia incluidas en assets.
+Audio: Icona Pop - cortado, proporcionado por el cliente, MP3 112 kbps.

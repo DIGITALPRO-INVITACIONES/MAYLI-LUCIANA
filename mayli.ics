@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Mayli Luciana XV//ES
+BEGIN:VEVENT
+UID:mayli-luciana-20261018@digitalpro
+DTSTAMP:20261008T120000Z
+DTSTART:20261018T140000Z
+SUMMARY:Mis 15 años - Mayli Luciana Ortega
+LOCATION:Plaza Colón - salida en bus privado
+DESCRIPTION:Salida a las 10:00 a. m. hora de Bolivia desde Plaza Colón en bus privado hacia Balneario Casa Blanca Colón. No olvides tu traje de baño. Confirmaciones: +59177985994.
+URL:https://maps.app.goo.gl/badLWHT25ob1KPWf7
+END:VEVENT
+END:VCALENDAR
